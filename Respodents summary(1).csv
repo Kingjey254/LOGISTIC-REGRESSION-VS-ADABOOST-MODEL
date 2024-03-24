@@ -1,0 +1,16 @@
+Respondent,Gender,Age,Years of Experience,Virtual working befor Covid,Size of Team,Nature of company,Mode of Communication,Most Prvalent Problem,Eployee Well-Being,Recoomendation
+R1,Male,35,32 to 35,No,10,Service,Email,Internet connectivity,Yes,Blended working
+R2,Female,42,0 to  3,Yes,15,Production,Social Media,Disruptions,Yes,Complete resumption
+R3,Female,65,8 t0 11,No,35,Service,Email,Delays,Yes,Blended working
+R4,Female,33,8 to 11,No,20,Service,Virtual Meetings,Delays,Yes,Complete resumption
+R5,Male,29,8 to 11,No,50,Production,Email,Disruptions,No,Remort Working
+R6,Female,36,0 to 3,No,14,Service,Social Media,Internet connectivity,Yes,Remort Working
+R7,Female,54,4 to 7,Yes,10,Service,Email,Internet connectivity,No,Blended working
+R8,Female,70,8 to 11,No,14,Service,Email,Internet connectivity,Yes,Blended working
+R9,Female,56,8 to 11,No,15,Production,Virtual Meetings,Disruptions,Yes,Blended working
+R10,Female,64,8 to11,No,22,Production,Email,Internet connectivity,Yes,Complete resumption
+R11,Male,59, 0 to 3,Yes,30,Service,Virtual Meetings,Delays,Yes,Remort Working
+R12,Male,43,8 to 11,No,21,Service,Virtual Meetings,Internet connectivity,No,Blended working
+R13,Female,46,4 to 7,No,5,Service,Email ,Internet connectivity,Yes,Remort Working
+R14,Male,42,8 to11,No,8,Production,Email,Internet connectivity,No,Blended working
+R15,Female,36,0 to 3,No,18,Service,Email,Disruptions,Yes,Blended working
